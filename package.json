@@ -1,0 +1,13 @@
+{
+  "name": "mean-demo",
+  "version": "0.0.0",
+  "description": "A mean demonstration application.",
+  "main": "server.js",
+  "repository": "",
+  "license": "",
+  "author": "Thang Nguyen <mrwin95@gmail.com>",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}

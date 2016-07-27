@@ -1,0 +1,22 @@
+{
+  "name": "Mean-demo",
+  "description": "Mean application demonstration",
+  "main": "server.js",
+  "authors": [
+    "Thang Nguyen <mrwin95@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Mean",
+    "Demo"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
